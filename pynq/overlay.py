@@ -307,6 +307,7 @@ class Overlay(Bitstream):
 
         """
         super().__init__(bitfile_name, dtbo, partial=False, device=device)
+        print('kamiyaowl/pynq_dsp custom package!')
 
         self.parser = self.device.get_bitfile_metadata(self.bitfile_name)
 

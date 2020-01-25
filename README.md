@@ -2,7 +2,11 @@
 
 PYNQ-Z2でデジタル音声処理をしたい
 
-[https://github.com/Xilinx/PYNQ](Xilinx/PYNQ) からforkしたpythonのpynqパッケージです
+[https://github.com/Xilinx/PYNQ](https://github.com/Xilinx/PYNQ) からforkしたpythonのpynqパッケージです
+
+---
+
+この方法はだめ
 
 ## 導入
 
