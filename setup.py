@@ -387,7 +387,7 @@ else:
     ext_modules = []
 
 
-setup(name='pynq',
+setup(name='pynq_dsp',
       version=pynq_version,
       description='(PY)thon productivity for zy(NQ)',
       long_description=long_description,
